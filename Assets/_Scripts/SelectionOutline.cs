@@ -1,8 +1,6 @@
 using UnityEngine;
 
-/// <summary>
-/// Simple outline effect. Learn how it works at https://youtube.com/shorts/FyEiPibJuRU?si=Ub_IZIuz2gzYIk9d
-/// </summary>
+
 public class SelectionOutline : MonoBehaviour
 {
     private int m_defaultLayer;
